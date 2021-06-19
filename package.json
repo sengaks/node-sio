@@ -1,0 +1,17 @@
+{
+  "name": "socketio-redis-coy",
+  "version": "1.0.0",
+  "description": "desc",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Encoy Marucoy",
+  "license": "ISC",
+  "dependencies": {
+    "async-redis": "^2.0.0",
+    "redis-promisify": "^0.1.2",
+    "socket.io": "^2.2.0",
+    "socketio-wildcard": "^2.0.0"
+  }
+}
